@@ -1,1 +1,1 @@
-Code alpha disease pridiction# Disease_Pridiction
+# Code Alpha Disease_Pridiction
